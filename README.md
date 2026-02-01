@@ -5,6 +5,6 @@ Welcome to my Python journey! This repository is a structured collection of my p
 ## 📂 Project Roadmap
 
 ### 🟢 Basic Projects (Foundations)
-* **[01-Simple-Calculator](./01-Simple-Calculator)** - Logic, functions, and user input.
+* **[01-Simple-Calculator](./01_Simple_Calculator)** - Logic, functions, and user input.
 * **Status:** Completed ✅
 

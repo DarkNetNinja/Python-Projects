@@ -16,6 +16,6 @@ In this project, I used:
 ## 📋 How to Run
 1. Navigate to this directory:
    ```bash
-   cd 01-Simple-Calculator
+   cd 01_Simple_Calculator
 
 python calculator.py
